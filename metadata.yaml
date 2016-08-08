@@ -1,0 +1,29 @@
+_repo: Abroad-with-the-Jimmies_12184
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bell, Lilian
+    alias: Bogue, Lilian Lida Bell
+    birthdate: 1867
+    deathdate: 1929
+    gutenberg_agent_id: '4047'
+    url: http://www.gutenberg.org/2009/agents/4047
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12184'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Europe -- Description and travel'
+- GITenberg
+tableOfContents: Our house-boat at Henley -- Paris -- Strasburg and Baden-Baden --
+  Stuttgart, Nuremberg, and Bayreuth -- The Passion play -- Munich to the Achensee
+  -- Dancing in the Austrian Tyrol -- Salzburg -- Ischl -- Vienna -- My first interview
+  with Tolstoy -- At one of the Tolstoy receptions -- Shopping experiences.
+title: Abroad with the Jimmies
+url: http://www.gutenberg.org/ebooks/12184
